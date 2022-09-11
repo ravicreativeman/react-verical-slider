@@ -1,0 +1,17 @@
+.slick-prev {
+    left: -25px;
+    /* background-color: red; */
+}
+
+.slick-next {
+    right: -25px;
+    /* background-color: red; */
+}
+
+/* .slick-prev:hover , .slick-next:hover{
+    background-color: red;
+} */
+
+.slick-slide {
+    height: 400px !important;
+}
